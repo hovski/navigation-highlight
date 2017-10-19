@@ -1,6 +1,6 @@
 html {
   font: normal 100%/1.5 Georgia,serif;
-  color: ##2f2d13;
+  color: #2f2d13;
 }
 
 body {
@@ -54,7 +54,7 @@ h2 {
 }
 
 img {
-  width: 50%
+  width: 50%;
   margin: .3rem;
 }
 
