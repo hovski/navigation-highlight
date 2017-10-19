@@ -34,7 +34,6 @@ h1 {
 
 .nav li {
   display: inline;
-  white-space: nowrap;
 }
 
 .nav a {
