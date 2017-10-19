@@ -8,14 +8,15 @@ body {
 
 header {
   background-color: #ffe500;
-  font: "Sigmar One", sans-serif;
-  font-size: 3rem;
-  color: #b20953;
+  padding: .2em .5em .3em;
 }
 
 h1 {
   margin: 0;
   text-align: center;
+  font-family: 'Sigmar One', cursive;
+  font-size: 3rem;
+  color: #b20953;
 }
 
 .nav {
@@ -41,5 +42,27 @@ h1 {
 
 .nav a:hover {
   background-color: #cc1465;
+}
 
+h2 {
+  margin: .3em;
+  text-align: left;
+  font-family: 'Sigmar One', cursive;
+  font-size: 1.875rem;
+  color: #b20953;
+}
+
+p {
+  margin: .3em;
+  color: ##2f2d13;
+}
+
+footer {
+  background-color: #ffe500;
+  padding: .75em;
+}
+
+.footer {
+  font-size: .75rem;
+  text-align: center;
 }
