@@ -53,13 +53,18 @@ h2 {
   color: #b20953;
 }
 
+img {
+  width: 50%
+  margin: .3rem;
+}
+
 p {
-  margin: .3em;
+  margin: .3rem;
 }
 
 footer {
   background-color: #ffe500;
-  padding: .75em;
+  padding: .75rem;
 }
 
 .footer {
