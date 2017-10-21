@@ -56,7 +56,7 @@ main {
 h2 {
   display: inline-block;
   margin: 0;
-  padding: 0.5em 0 0.75em;
+  padding: .5em 0 .75em;
   text-align: left;
   font-family: "Sigmar One", cursive;
   font-size: 1.875rem;
