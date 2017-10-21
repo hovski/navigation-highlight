@@ -51,7 +51,7 @@ h1 {
 
 h2 {
   display: inline-block;
-  margin: .3em;
+  margin: 0;
   padding: .75em;
   text-align: left;
   font-family: "Sigmar One", cursive;
