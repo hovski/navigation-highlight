@@ -49,6 +49,10 @@ h1 {
   background-color: #cc1465;
 }
 
+main {
+  padding: .75em;
+}
+
 h2 {
   display: inline-block;
   margin: 0;
@@ -62,13 +66,11 @@ h2 {
 img {
   display: block;
   width: 100%;
-  margin: .3em;
 }
 
 p {
-  margin: .3rem;
   display: inline-block;
-  padding: 0 .75em;
+  padding: 0;
 }
 
 footer {
